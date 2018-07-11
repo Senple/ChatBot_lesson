@@ -12,6 +12,10 @@
 #  License for the specific language governing permissions and limitations
 #  under the License.
 
+
+#https://qiita.com/akabei/items/38f974716f194afea4a5
+#これを参考に作りました。
+
 import os
 import sys
 from argparse import ArgumentParser
